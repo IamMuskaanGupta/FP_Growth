@@ -1,5 +1,5 @@
 # FP_Growth
-The reason why FP Growth is so efficient is that it’s a divide-and-conquer approach. It implemented tree, linked list, and the concept of depth-first search. The process can be split into two main stages, each stage can be further divided into two steps.
+FP Growth implements tree, linked list, and the concept of depth-first search. The process can be split into two main stages, each stage can be further divided into two steps.
 
 Stage 1: FP tree construction
 
